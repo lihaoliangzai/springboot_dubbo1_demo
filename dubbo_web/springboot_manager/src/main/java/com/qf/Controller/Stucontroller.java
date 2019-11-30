@@ -97,6 +97,12 @@ public class Stucontroller {
        Student student=stuService.Byid(id);
         model.addAttribute("stu",student);
         return "update";
-        1
+        /**
+         * 功能描述: <br>
+         * @Author: 深圳最靓的仔 
+         * @Param: [id, model]
+         * @Return: java.lang.String 
+         * @Date: 2019/11/30 17:10
+        */
     }
 }
