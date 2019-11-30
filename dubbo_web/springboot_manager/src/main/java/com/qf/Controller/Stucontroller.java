@@ -97,5 +97,6 @@ public class Stucontroller {
        Student student=stuService.Byid(id);
         model.addAttribute("stu",student);
         return "update";
+        1
     }
 }
