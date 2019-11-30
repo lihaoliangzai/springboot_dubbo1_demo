@@ -91,4 +91,11 @@ public class Stucontroller {
         model.addAttribute("stu",student);
         return "update";
     }
+    /**
+     * 功能描述: <br>
+     * @Author: 深圳最靓的仔 
+     * @Param: 
+     * @Return:  
+     * @Date: 2019/11/30 16:44
+    */
 }
