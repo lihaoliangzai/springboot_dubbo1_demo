@@ -1,0 +1,9 @@
+server:
+  port: 8090
+dubbo:
+  registry:
+    address: zookeeper://192.168.91.131:2181
+  consumer:
+    check: false
+  application:
+    name: manager

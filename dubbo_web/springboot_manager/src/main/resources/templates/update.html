@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="" method="post" th:each="cc : ${stu}">
+      <input type="hidden" name="id"  th:value="${cc.id}"><br>
+      <input type="text" name="id" th:value="${cc.sname}"><br>
+      <input type="text" name="id" th:value="${cc.age}"><br>
+      <input type="text" name="id" th:value="${cc.cname}"><br>
+</form>
+</body>
+</html>

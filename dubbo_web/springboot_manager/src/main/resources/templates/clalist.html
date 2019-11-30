@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>学号</td>
+            <td>班级名称</td>
+            <td>班级人数</td>
+        </tr>
+        <tr th:each=" c : ${cla}">
+            <td th:text="${c.id}"></td>
+            <td th:text="${c.cname}"></td>
+            <td th:text="${c.cnum}"></td>
+        </tr>
+    </table>
+</body>
+</html>

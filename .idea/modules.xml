@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo_comment/dubbo_comment.iml" filepath="$PROJECT_DIR$/dubbo_comment/dubbo_comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_entity/dubbo_entity.iml" filepath="$PROJECT_DIR$/dubbo_entity/dubbo_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_web/dubbo_web.iml" filepath="$PROJECT_DIR$/dubbo_web/dubbo_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_web/springboot_classes/springboot_classes.iml" filepath="$PROJECT_DIR$/dubbo_web/springboot_classes/springboot_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_web/springboot_manager/springboot_manager.iml" filepath="$PROJECT_DIR$/dubbo_web/springboot_manager/springboot_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_service_api/springboot_service_api.iml" filepath="$PROJECT_DIR$/springboot_service_api/springboot_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_web/springboot_student/springboot_student.iml" filepath="$PROJECT_DIR$/dubbo_web/springboot_student/springboot_student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_student_demo.iml" filepath="$PROJECT_DIR$/springboot_student_demo.iml" />
+    </modules>
+  </component>
+</project>
